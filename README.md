@@ -32,4 +32,4 @@ start
 ![Screenshot 2024-08-14 070250](https://github.com/user-attachments/assets/a8774261-a8b5-42b3-8694-8e8204894b59)
 
 
-![Screenshot 2024-08-14 070315](https://github.com/user-attachments/assets/b4b61f9d-784a-43ba-b6ef-e5c33ce2ddf0)
+
